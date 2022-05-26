@@ -1,0 +1,14 @@
+table{
+    height: 800px;
+    width:800px;
+}
+.white{
+    background-color: white;
+    outline: solid black;
+}
+.green{
+    background-color: green;
+    outline: solid black;
+}
+
+

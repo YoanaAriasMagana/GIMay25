@@ -1,0 +1,29 @@
+table{
+    height: 456px;
+    width:800px;
+}
+table,td{
+    border-collapse: collapse;
+}
+tr:nth-child(odd){
+    background: red;
+}
+tr:nth-child(even){
+    background:white;
+}
+
+.flagstars{
+    background: blue;
+    width:282px;
+    height:282px;
+    margin-top: -481px;
+}
+p{
+    color: white;
+    font-size: 24px;
+    line-height: 7px;
+    letter-spacing: 15px;
+    text-align: center;
+    padding-left: 10px;
+
+}
